@@ -186,3 +186,12 @@ await storeSession(response.data.token);
 ## License
 
 This project is licensed under the MIT License. 
+
+---
+
+**Built by Falak Thackar**
+
+I’m a full stack developer who builds clean, working products using React, Node.js, MongoDB, and React Native.  
+Open to remote/hybrid roles and freelance MVP builds.
+
+👉 [LinkedIn](https://linkedin.com/in/falakthackar) | [Email](mailto:falakthackar@gmail.com)
